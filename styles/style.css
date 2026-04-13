@@ -1,0 +1,12 @@
+.packages {
+    padding: 20px;
+    text-align: center;
+}
+
+.event {
+    border: 1px solid #ccc;
+    margin: 15px auto;
+    padding: 15px;
+    max-width: 500px;
+    border-radius: 10px;
+}
